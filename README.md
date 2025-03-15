@@ -6,7 +6,11 @@
 
 ## 🚀 About Me
 
-I am a Computer Science student at VIT Bhopal, passionate about bringing innovative ideas to life through hands-on implementation. With experience in Full-Stack Development, AI, and Machine Learning, I love exploring scalable and impactful solutions.
+I am a passionate Computer Science student with a keen interest in problem-solving, software development, 
+and machine learning. With hands-on experience in Python, C++, and Java, I have worked on projects spanning 
+web development, automation, and AI-driven applications. My internships and research projects, including collaborations 
+with TU Delft and DRDO, have enhanced my expertise in data analysis, backend development, and cloud computing. 
+I am a fast learner, always eager to explore new technologies and contribute to innovative solutions. 
 
 🔭 **Currently working on:**  
 - **Auto-Gen Report:** Intelligent document automation with Python & C++.  
@@ -29,13 +33,10 @@ I am a Computer Science student at VIT Bhopal, passionate about bringing innovat
 [![LinkedIn Badge](https://img.shields.io/badge/-RudriyaBansal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rudriya-bansal-3a418a201)  
 
 👨‍💻 **All of my projects are available at:**  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rudriyadev08)  
-
-📝 **I regularly write articles on:**  
-[![Blog Badge](https://img.shields.io/badge/-My%20Blog-lightgrey?style=flat&logo=hashnode&logoColor=white)](your-blog-link)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rudriya)  
 
 📄 **Know about my experiences:**  
-[![Resume Badge](https://img.shields.io/badge/-My%20Resume-orange?style=flat&logo=readthedocs&logoColor=white)](your-resume-link)  
+[![Resume Badge](https://img.shields.io/badge/-My%20Resume-orange?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/10qv0lJfxjRoU9AM1vv79uGlODGuC7p1a/view?usp=sharing)  
 
 ⚡ **Fun fact:**  
 I debug to the beat of my favorite music! 🎵💻  
@@ -53,7 +54,7 @@ I debug to the beat of my favorite music! 🎵💻
   <img src="https://github-readme-stats.vercel.app/api?username=Rudriya&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudriya">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudriya&layout=compact">
 </p>
 ---
 
