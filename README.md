@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudriya Bansal</h1>
-<h3 align="center">A passionate Frontend Developer & AI Enthusiast from India</h3>
+<h3 align="center">A passionate AI Enthusiast</h3>
 
 
 ---
