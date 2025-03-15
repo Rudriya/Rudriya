@@ -50,9 +50,11 @@ I debug to the beat of my favorite music! 🎵💻
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudriyadev08&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudriya&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudriya">
+</p>
 ---
 
 ### 🎯 Connect with Me  
